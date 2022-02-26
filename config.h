@@ -1,0 +1,5 @@
+#define BLOCKDIM 32
+#define CHANNELS 3
+#define MAX_MASK_HEIGHT 31
+#define MAX_MASK_WIDTH 31
+
